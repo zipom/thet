@@ -9,7 +9,7 @@ Just simply download install.sh file and execute it with "--stable" parameter
 ### Debian / Ubuntu / CentOS+
 
 ``` bash
-wget "https://rawgithub.com/arudmin/ISPmanager_Installer/master/install.sh"
+wget "https://rawgithub.com/zipom/thet/master/install.sh"
 
 sh install.sh --stable
 ````
@@ -18,7 +18,7 @@ sh install.sh --stable
 
 
 ``` bash
-fetch "https://rawgithub.com/arudmin/ISPmanager_Installer/master/install.sh"
+fetch "https://rawgithub.com/zipom/thet/master/install.sh"
 
 sh install.sh --stable
 ````
